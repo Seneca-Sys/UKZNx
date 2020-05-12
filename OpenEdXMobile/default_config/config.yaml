@@ -1,0 +1,6 @@
+API_HOST_URL: 'https://edx.ukzn.ac.za'
+ENVIRONMENT_DISPLAY_NAME: 'edx_ukzn_connection'
+PLATFORM_NAME: 'UKZNx'
+PLATFORM_DESTINATION_NAME: 'edx.ukzn.ac.za'
+FEEDBACK_EMAIL_ADDRESS: 'support@example.com'
+OAUTH_CLIENT_ID: '6eb7d30ed9928b3a8301'
